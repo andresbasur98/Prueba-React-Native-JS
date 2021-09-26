@@ -1,5 +1,4 @@
 import React from 'react'
-import { shallow } from "enzyme";
 import { SumissionItem } from "../src/components/SumissionItem";
 import renderer from 'react-test-renderer';
 
